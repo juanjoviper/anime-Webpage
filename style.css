@@ -1,0 +1,17 @@
+body{
+    background-color:aquamarine;
+    color: black;
+}
+#mititulo{
+    font-style:italic;
+    color: darkmagenta;
+}
+#miparrafo{
+    font-style:italic;
+    font-size: 20px;
+    color:blue;
+}
+.imagenes{
+    width: 300px;
+    height: 200px;
+}
